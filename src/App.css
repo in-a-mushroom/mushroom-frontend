@@ -18,8 +18,6 @@
   min-width: 100vw;
   min-height: 100vh;
   padding-top: 30%;
-
-
 }
 
 .content__price {
@@ -33,6 +31,7 @@
 .content__price-title {
   font-size: 28px;
   color: red;
+  font-weight: 700;
 }
 
 .content__goods {
@@ -54,6 +53,8 @@
   width: fit-content;
 
   font-size: 14px;
+  font-weight: 700;
+
 }
 
 .first-position__title-price {
@@ -66,8 +67,6 @@
 width: 50%;
 }
 
-.first-position__list {
-}
 
 .first-position__item {
   background-color: white;
@@ -79,6 +78,8 @@ width: 50%;
   white-space: nowrap;
   border-radius: 0 4px 4px 0;
   color: #333;
+  font-weight: 700;
+
 
 }
 
@@ -114,9 +115,6 @@ width: 50%;
 width: 50%;
 }
 
-.second-position__list {
-}
-
 .second-position__item {
   background-color: white;
   width: fit-content;
@@ -127,6 +125,8 @@ width: 50%;
   white-space: nowrap;
   border-radius: 0 4px 4px 0;
   color: #333;
+  font-weight: 700;
+
 }
 
 .second-position__item::before {
@@ -141,6 +141,8 @@ width: 50%;
 
 .red {
   color: red;
+  font-weight: 800;
+
 }
 
 .info {
