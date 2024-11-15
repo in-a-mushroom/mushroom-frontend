@@ -45,7 +45,7 @@ function App() {
           <div className="main__info info">
               <a className='info__tell' href="tel:0636127614">063-61-27-614</a>
               <a className="info__social" href="https://www.instagram.com/uhryba_?igsh=MTRpdmp2aGZmbmU4eA%3D%3D">
-                <img className="info__social-img" src="../public/inst.png" alt="instagram" />
+                <img className="info__social-img" src="/public/inst.png" alt="instagram" />
               </a>
           </div>
         </div>
